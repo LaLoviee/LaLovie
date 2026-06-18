@@ -12,8 +12,8 @@
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaLoviee&repo=LaLoviee&theme=date_night" alt="Alternative Badge" style="display:none;">
-      <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" alt="Coding Animation" style="display:none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VvdXp0eW95YzA1M2V4Z3R5cmh5amNnbmFrbWd5bWFrNWhubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVr9tJq6ULh48E/giphy.gif" width="220" alt="Coding GIF">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZibmZxYWJiNnBibGMxbjY3MnV3ZnRtNXJ0ODVjdzQ3cWJ1Zms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif" width="220" alt="Coding Animation" style="display:none;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZibmZxYWJiNnBibGMxbjY3MnV3ZnRtNXJ0ODVjdzQ3cWJ1Zms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif" width="220" alt="Coding GIF">
     </td>
   </tr>
 </table>
