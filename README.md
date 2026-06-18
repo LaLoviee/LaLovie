@@ -11,9 +11,7 @@
       ⚙️ <strong>What I Do:</strong> Building web applications, Telegram bots, automated scripts, and cloud deployments
     </td>
     <td align="center" valign="middle" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaLoviee&repo=LaLoviee&theme=date_night" alt="Alternative Badge" style="display:none;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZucGhtYnYzdzhyZmxyZWdneWx6cWlkemR4eXJ3eTBnZDNwMW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILx3tjWgaP0cjUf0Wx/giphy.gif" width="220" alt="Coding Animation" style="display:none;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZucGhtYnYzdzhyZmxyZWdneWx6cWlkemR4eXJ3eTBnZDNwMW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILx3tjWgaP0cjUf0Wx/giphy.gif" width="220" alt="Coding GIF">
     </td>
   </tr>
 </table>
