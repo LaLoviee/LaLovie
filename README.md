@@ -1,48 +1,54 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://media.giphy.com/media/qgQUggCGVNstFta5mZ/giphy.gif" alt="Coding Animation" width="600">
+
+# 💫 Hi, I'm Julian (@0xJust4Sec)
+
+**Cakrawala University (Information System) Student | BackEnd Developer | Security Enthusiast**
+
+<br>
+
+🎓 **Education:** Cakrawala University ( Information System )<br>
+💻 **Tech Stack:** Python, JavaScript, Node.js, React, Next.js, C++, PHP<br>
+🛡️ **Cybersecurity:** Active in vulnerability research, OSINT, and CTF challenges<br>
+⚙️ **What I Do:** Building web applications, Telegram bots, automated scripts, and cloud deployments
+
+<br>
+
+### 🌐 Connect with Me:
+<a href="https://instagram.com/chrvert_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/julianto-adi-prasetia-1494b240b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:0xjust4sec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br><br>
+
+### 💻 Tech Stack:
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+<br><br>
+
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.shion.dev/api?username=LaLoviee&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
+<img src="https://streak-stats.demolab.com/?user=LaLoviee&theme=date_night&hide_border=false" alt="GitHub Streak"/><br><br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LaLoviee&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+<br><br>
+
+### 🏆 GitHub Trophies:
+<img src="https://github-profile-trophy.vercel.app/?username=LaLoviee&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+
+<br><br>
+
+### 🔝 Top Contributed Repo & Random Dev Quote:
+<img src="https://github-contributor-stats.vercel.app/api?username=LaLoviee&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/><br><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
+
+<br><br>
+<hr>
+<br>
+
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LaLoviee&icon=0&color=0" alt="Profile Views"/></a>
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">What's Up?</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-<p align="left">I'm Julian from Indonesia<br><br>- 🔭I’m currently a student at Cakrawala Univerty</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
