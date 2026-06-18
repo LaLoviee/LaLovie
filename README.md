@@ -20,35 +20,5 @@
 <a href="https://www.linkedin.com/in/julianto-adi-prasetia-1494b240b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:0xjust4sec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br><br>
-
-### 💻 Tech Stack:
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-
-<br><br>
-
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=LaLoviee&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
-<img src="https://streak-stats.demolab.com/?user=LaLoviee&theme=date_night&hide_border=false" alt="GitHub Streak"/><br><br>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LaLoviee&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-
-<br><br>
-
-### 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=LaLoviee&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
-
-<br><br>
-
-### 🔝 Top Contributed Repo & Random Dev Quote:
-<img src="https://github-contributor-stats.vercel.app/api?username=LaLoviee&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/><br><br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
-
-<br><br>
-<hr>
-<br>
-
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LaLoviee&icon=0&color=0" alt="Profile Views"/></a>
 
 </div>
